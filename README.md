@@ -1,4 +1,4 @@
-# BANK PICTURES
+# LIBRARY PICTURES
 This repository includes Tech-H's photos.
 
 ## Copyright
