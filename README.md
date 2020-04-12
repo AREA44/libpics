@@ -1,5 +1,5 @@
 # LIBRARY PICTURES
-This repository includes Tech-H's photos.
+This repository includes `Finger Labs`'s photos.
 
 ## Copyright
-Copyright (c) Tech-H.
+Copyright (c) Finger Labs.
