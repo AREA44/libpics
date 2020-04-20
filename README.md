@@ -2,4 +2,4 @@
 This repository includes `AREA44`'s photos.
 
 ## Copyright
-[LICENSE.md].
+[MIT](LICENSE.md).
