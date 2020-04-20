@@ -1,5 +1,5 @@
 # LIBRARY PICTURES
-This repository includes `Finger Labs`'s photos.
+This repository includes `AREA44`'s photos.
 
 ## Copyright
-Copyright (c) Finger Labs.
+[LICENSE.md].
