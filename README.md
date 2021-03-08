@@ -1,5 +1,5 @@
-# LIBRARY PICTURES
-This repository includes `AREA44`'s photos.
+# Photos
+Photos is the home for all my photos and easy to view.
 
-## Copyright
-[MIT](LICENSE.md).
+## LICENSE
+[MIT](LICENSE.md)
